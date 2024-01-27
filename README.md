@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamojha1)
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamojha1)](https://github.com/anuraghazra/github-readme-stats)
+![Shubham's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamojha1&layout=compact&show_icons=true)
 <!--
 **shubhamojha1/shubhamojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
