@@ -4,7 +4,7 @@
 
 ![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true)
 
-![Shubham's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamojha1&layout=compact&show_icons=true)
+[![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shubhamojha1/shubhamojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
