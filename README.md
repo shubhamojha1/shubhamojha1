@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamojha1)
 
-![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true)
+<!-- ![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true) -->
+![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
 
 [![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
