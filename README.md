@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamojha1)
 
-![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true)
+<!-- ![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true) -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&show_icons=true&v=2"/>
 
 <!-- [![Shubham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1)](https://github.com/anuraghazra/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&layuout=compact&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamojha1&layout=compact&v=2"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
