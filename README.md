@@ -1,39 +1,36 @@
 # Shubham Ojha
 
-Backend engineer working on **LLM inference and systems infrastructure**. Currently on Java 21 / Spring Boot / Kubernetes by day; writing inference engines, brokers, and an OS by night.
+Backend engineer working on **LLM inference and systems infrastructure**. Java 21 / Spring Boot / Kubernetes by day; inference servers, brokers, and load balancers by night.
 
 Mumbai, India · [shubham-ojha.com](https://shubham-ojha.com) · [whatwhyhow.substack.com](https://whatwhyhow.substack.com) · [@claudeabuser](https://x.com/claudeabuser)
 
 ---
 
-### What I'm building
+### [systemsfailed.dev](https://systemsfailed.dev) — a failure archive for engineers
 
-**[Helios](https://github.com/shubhamojha1/helios)** — LLM inference engine in PyTorch. Paged KV-cache, continuous batching, benchmarked on a single RTX 4070. Built to understand what vLLM actually does under the hood.
+40+ real production incidents from 2012 to now, indexed by **how the system broke** rather than by who had the outage. Thundering herds, config pushes, cert expiries, schema migrations — ten failure classes, each case traced through trigger → mechanism → impact → lesson, and each linking back to the original public postmortem.
 
-**[Serving Sommelier](https://github.com/shubhamojha1/serving-sommelier)** — Empirical autotuner for LLM serving. Searches batch size, KV block size, quantization, and speculative decoding against vLLM and returns a Pareto frontier of latency/throughput/cost — measured, not guessed.
+Knight Capital's PowerPeg, the Cloudflare regex, the AWS S3 typo, GitHub's DNS cascade, and last month's Actions runner cert expiry all live in the same taxonomy. There's an [interview-prep view](https://systemsfailed.dev/interview) that cuts the archive by failure mode.
 
-**[Mnemosyne](https://github.com/shubhamojha1/mnemosyne)** — Shared memory and coordinated task execution across coding agents (Claude Code, Codex). MCP memory server + thin routing CLI + session audit trail. Plugin-based, agent-agnostic.
+Actively maintained — new incidents go in as postmortems get published.
 
-**[Chronos](https://github.com/shubhamojha1/chronos)** — An OS from scratch in Rust and x86 assembly. Zero C. Boots in QEMU, headed for bare metal.
+### Things I've built
 
-### Systems I've written to learn how they work
+**[helios](https://github.com/shubhamojha1/helios)** — Local LLM inference server with OpenAI-compatible routes. Request scheduler with priority queues, batching, streaming chat completions, GGUF models via llama.cpp.
 
-| Project | What it is |
-|---|---|
-| [simplemq](https://github.com/shubhamojha1/simplemq) | Kafka-style message broker in Go — segmented logs, consumer groups, ~50K msg/sec |
-| [heimdall](https://github.com/shubhamojha1/heimdall) | L4/L7 load balancer in Go — health checks, connection pooling, multiple balancing strategies |
-| [bifrost](https://github.com/shubhamojha1/bifrost) | Hash-join execution engine in C++ — partitioned build/probe, spill-to-disk |
-| [sqlite-clone](https://github.com/shubhamojha1/sqlite-clone) | SQLite reimplemented in C — B-tree pager, VM, SQL front end |
+**[simplemq](https://github.com/shubhamojha1/simplemq)** — Kafka-style message broker in Go. Segmented commit log, consumer groups, offset tracking.
+
+**[heimdall](https://github.com/shubhamojha1/heimdall)** — L4/L7 load balancer in Go. Health checking, connection pooling, pluggable balancing strategies.
+
+**[bifrost](https://github.com/shubhamojha1/bifrost)** — Hash-join execution engine in C++. Partitioned build/probe phase.
 
 ### Writing
 
 [**whatwhyhow**](https://whatwhyhow.substack.com) — long-form posts on LLM internals and the agentic dev stack, with working code.
 
-[**systemsfailed.dev**](https://systemsfailed.dev) — an archive of distributed systems postmortems. Git as the database, one markdown file per incident.
-
 ### Stack
 
-`Go` `Rust` `C/C++` `Python` `Java` · `PyTorch` `CUDA` `vLLM` · `Kubernetes` `Istio` `Docker` `AWS`
+`Go` `Rust` `C/C++` `Python` `Java` · `PyTorch` `vLLM` `llama.cpp` · `Kubernetes` `Istio` `Docker` `AWS`
 
 ---
 
