@@ -7,6 +7,7 @@ Mumbai, India · [shubham-ojha.com](https://shubham-ojha.com) · [whatwhyhow.sub
 ---
 
 ### [systemsfailed.dev](https://systemsfailed.dev) — a failure archive for engineers
+<img width="680" height="357" alt="image" src="https://github.com/user-attachments/assets/3112c27c-9d8f-42bd-84d9-c8f0676a0da1" />
 
 40+ real production incidents from 2012 to now, indexed by **how the system broke** rather than by who had the outage. Thundering herds, config pushes, cert expiries, schema migrations — ten failure classes, each case traced through trigger → mechanism → impact → lesson, and each linking back to the original public postmortem.
 
