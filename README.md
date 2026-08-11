@@ -2,7 +2,7 @@
 
 Systems engineer working across distributed systems and AI infrastructure. Technology Analyst (SDE) at TIAA GCC, Mumbai — building on Kubernetes, Istio, and EKS. Most of my time outside that goes into inference systems, agent tooling and low-level stuff.
 
-[Substack](https://whatwhyhow.substack.com) · [systemsfailed.dev](https://systemsfailed.dev) · [shubham-ojha.com](https://shubham-ojha.com) · [LinkedIn]([https://shubham-ojha.com](https://www.linkedin.com/in/shubhamojha1/))
+[Substack](https://whatwhyhow.substack.com) · [systemsfailed.dev](https://systemsfailed.dev) · [shubham-ojha.com](https://shubham-ojha.com) · [LinkedIn]([https://www.linkedin.com/in/shubhamojha1/])
 
 ## Currently
 
