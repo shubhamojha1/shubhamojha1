@@ -1,38 +1,39 @@
 # Shubham Ojha
 
-Backend engineer working on **LLM inference and systems infrastructure**. Java 21 / Spring Boot / Kubernetes by day; inference servers, brokers, and load balancers by night.
+Systems engineer working across distributed systems and AI infrastructure. Technology Analyst (SDE) at TIAA GCC, Mumbai — building on Kubernetes, Istio, and EKS. Most of my time outside that goes into inference systems, agent tooling and low-level stuff.
 
-Mumbai, India · [shubham-ojha.com](https://shubham-ojha.com) · [whatwhyhow.substack.com](https://whatwhyhow.substack.com) · [@claudeabuser](https://x.com/claudeabuser)
+[Substack](https://whatwhyhow.substack.com) · [systemsfailed.dev](https://systemsfailed.dev) · [shubham-ojha.com](https://shubham-ojha.com) · [LinkedIn]([https://shubham-ojha.com](https://www.linkedin.com/in/shubhamojha1/))
 
----
+## Currently
 
-### [systemsfailed.dev](https://systemsfailed.dev) — a failure archive for engineers
-<img width="680" height="357" alt="image" src="https://github.com/user-attachments/assets/3112c27c-9d8f-42bd-84d9-c8f0676a0da1" />
+- Building **Titan**, a model-agnostic system design interview engine — the harness runs the interview through a deterministic graph/state/policy layer instead of prompting a model to roleplay an interviewer.
+- Building **Forge**, a CLI orchestration harness for coding agents. Python stdlib only, sequential agent coordination, SQLite-backed memory layer.
+- Maintaining **systemsfailed.dev**, a curated archive of real production incidents indexed by failure class — 40+ entries live.
+- Open to SDE-2 / L4 backend and AI infrastructure roles.
 
-40+ real production incidents from 2012 to now, indexed by **how the system broke** rather than by who had the outage. Thundering herds, config pushes, cert expiries, schema migrations — ten failure classes, each case traced through trigger → mechanism → impact → lesson, and each linking back to the original public postmortem.
+## Open source
 
-Knight Capital's PowerPeg, the Cloudflare regex, the AWS S3 typo, GitHub's DNS cascade, and last month's Actions runner cert expiry all live in the same taxonomy. There's an [interview-prep view](https://systemsfailed.dev/interview) that cuts the archive by failure mode.
+[View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashubhamojha1+is%3Amerged+-user%3Ashubhamojha1)
 
-Actively maintained — new incidents go in as postmortems get published.
+### [Istio](https://github.com/istio/istio)
 
-### Things I've built
+Contributions to the CNI test suite.
 
-**[helios](https://github.com/shubhamojha1/helios)** — Local LLM inference server with OpenAI-compatible routes. Request scheduler with priority queues, batching, streaming chat completions, GGUF models via llama.cpp.
+- [#61156](https://github.com/istio/istio/pull/61156) — replaced fixed waits with context cancellation while preserving filesystem-event coverage.
 
-**[simplemq](https://github.com/shubhamojha1/simplemq)** — Kafka-style message broker in Go. Segmented commit log, consumer groups, offset tracking.
+## Selected projects
 
-**[heimdall](https://github.com/shubhamojha1/heimdall)** — L4/L7 load balancer in Go. Health checking, connection pooling, pluggable balancing strategies.
+- **Helios** — LLM inference engine serving Qwen2.5-3B-Instruct on an RTX 4070, with continuous batching and PagedAttention-style KV cache management. In maintenance mode.
+- **Chronos** — an OS written from scratch in Rust and NASM. Real-mode bootloader is done.
+- **Bifrost** — a hash-join engine in C++.
+- **SimpleMQ** — a Kafka-style message broker in Go.
+- **Rakshak** — a VAE-based phishing detector, 56% to 94% accuracy.
 
-**[bifrost](https://github.com/shubhamojha1/bifrost)** — Hash-join execution engine in C++. Partitioned build/probe phase.
+## Stack
 
-### Writing
+Day job: Java, Spring Boot, Kubernetes, Istio, EKS.
+Projects: Go, Rust, Python, C++.
 
-[**whatwhyhow**](https://whatwhyhow.substack.com) — long-form posts on LLM internals and the agentic dev stack, with working code.
+## Writing
 
-### Stack
-
-`Go` `Rust` `C/C++` `Python` `Java` · `PyTorch` `vLLM` `llama.cpp` · `Kubernetes` `Istio` `Docker` `AWS`
-
----
-
-📫 [contact.shubhamojha@gmail.com](mailto:contact.shubhamojha@gmail.com) · open to conversations about anything in cs/real-world systems.
+Long-form posts at [whatwhyhow.substack.com](https://whatwhyhow.substack.com)
