@@ -38,4 +38,4 @@ Projects: Go, Rust, Python, C++.
 
 Long-form posts at [whatwhyhow.substack.com](https://whatwhyhow.substack.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shubhamojha1)](https://github.com/shubhamojha1)
+![snake gif](https://raw.githubusercontent.com/shubhamojha1/shubhamojha1/output/github-contribution-grid-snake.svg)
