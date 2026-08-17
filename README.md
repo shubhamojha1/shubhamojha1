@@ -37,3 +37,5 @@ Projects: Go, Rust, Python, C++.
 ## Writing
 
 Long-form posts at [whatwhyhow.substack.com](https://whatwhyhow.substack.com)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shubhamojha1)](https://github.com/shubhamojha1)
