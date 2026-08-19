@@ -11,15 +11,16 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 - Maintaining **systemsfailed.dev**, a curated archive of real production incidents indexed by failure class — 40+ entries live.
 - Open to SDE-2 / L4 backend and AI infrastructure roles.
 
-## Open source
+## Contributing to
+
+**[agentgateway](https://github.com/agentgateway/agentgateway)** ![stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&logo=github&label=)
+- [feat(xds): add custom request headers](https://github.com/agentgateway/agentgateway/pull/3052) (#3052, merged)
+- [fix(llm): classify proxy errors by phase](https://github.com/agentgateway/agentgateway/pull/3015) (#3015, merged)
+
+**[Istio](https://github.com/istio/istio)** ![stars](https://img.shields.io/github/stars/istio/istio?style=flat-square&logo=github&label=)
+- [test: speed up TestGetCNIConfigFilepath](https://github.com/istio/istio/pull/61156) (#61156, merged)
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashubhamojha1+is%3Amerged+-user%3Ashubhamojha1)
-
-### [Istio](https://github.com/istio/istio)
-
-Contributions to the CNI test suite.
-
-- [#61156](https://github.com/istio/istio/pull/61156) — replaced fixed waits with context cancellation while preserving filesystem-event coverage.
 
 ## Selected projects
 
