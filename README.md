@@ -14,8 +14,9 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ## Contributing to
 
 **[agentgateway](https://github.com/agentgateway/agentgateway)** ![stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&logo=github&label=)
-- [feat(xds): add custom request headers](https://github.com/agentgateway/agentgateway/pull/3052) (#3052, merged)
-- [fix(llm): classify proxy errors by phase](https://github.com/agentgateway/agentgateway/pull/3015) (#3015, merged)
+- [feat(xds): add custom request headers](https://github.com/agentgateway/agentgateway/pull/3052) 
+- [fix(llm): classify proxy errors by phase](https://github.com/agentgateway/agentgateway/pull/3015)
+- [feat: configure sensitive request headers - #3078](https://github.com/agentgateway/agentgateway/pull/3078)
 
 **[Istio](https://github.com/istio/istio)** ![stars](https://img.shields.io/github/stars/istio/istio?style=flat-square&logo=github&label=)
 - [test: speed up TestGetCNIConfigFilepath](https://github.com/istio/istio/pull/61156) (#61156, merged)
