@@ -39,5 +39,3 @@ Projects: Go, Rust, Python, C++.
 ## Writing
 
 Long-form posts at [whatwhyhow.substack.com](https://whatwhyhow.substack.com)
-
-![snake gif](https://raw.githubusercontent.com/shubhamojha1/shubhamojha1/output/github-contribution-grid-snake.svg)
