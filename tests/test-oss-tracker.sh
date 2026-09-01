@@ -8,6 +8,7 @@ trap 'rm -rf "$TEST_DIR"' EXIT
 mkdir -p "$TEST_DIR/scripts" "$TEST_DIR/bin"
 cp "$REPO_ROOT/scripts/track-contributions.sh" "$TEST_DIR/scripts/"
 cp "$REPO_ROOT/scripts/render-readme.sh" "$TEST_DIR/scripts/"
+cp "$REPO_ROOT/scripts/validate-oss-data.sh" "$TEST_DIR/scripts/"
 
 cat > "$TEST_DIR/contribution_blocklist.json" <<'JSON'
 [

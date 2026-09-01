@@ -12,14 +12,8 @@ MAX_ITEMS=10
 [ -f "$README_FILE" ] || exit 0
 [ -f "$BLOCKLIST_FILE" ] || echo '[]' > "$BLOCKLIST_FILE"
 
-jq -e '
-  type == "array"
-  and all(.[];
-    type == "object"
-    and (.id | type == "string")
-    and (.reason | type == "string")
-  )
-' "$BLOCKLIST_FILE" > /dev/null
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+bash "$SCRIPT_DIR/validate-oss-data.sh"
 
 # Select the top N eligible contributions, then group organizations by the
 # repository owner. Groups are ordered by their most recent contribution.

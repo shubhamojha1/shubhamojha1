@@ -11,6 +11,7 @@ on:
       - 'scripts/**'
       - 'tests/**'
       - 'README.md'
+  workflow_dispatch: {}
 
 permissions:
   contents: read
@@ -22,8 +23,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Validate OSS data
+        run: bash scripts/validate-oss-data.sh
+
       - name: Test tracker scripts
         run: bash tests/test-oss-tracker.sh
+
+      - name: Test OSS data validation
+        run: bash tests/test-validate-oss-data.sh
 
       - name: Verify generated README is current
         run: |

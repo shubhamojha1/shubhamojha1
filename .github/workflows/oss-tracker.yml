@@ -18,8 +18,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Validate OSS data
+        run: bash scripts/validate-oss-data.sh
+
       - name: Test tracker scripts
         run: bash tests/test-oss-tracker.sh
+
+      - name: Test OSS data validation
+        run: bash tests/test-validate-oss-data.sh
 
       - name: Track merged PRs
         run: bash scripts/track-contributions.sh
