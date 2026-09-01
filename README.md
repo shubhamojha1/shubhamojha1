@@ -11,15 +11,10 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 - Maintaining **systemsfailed.dev**, a curated archive of real production incidents indexed by failure class — 40+ entries live.
 - Open to SDE-2 / L4 backend and AI infrastructure roles.
 
-## Contributing to
+## Open Source Contributions
 
-**[agentgateway](https://github.com/agentgateway/agentgateway)** ![stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&logo=github&label=)
-- [feat(xds): add custom request headers](https://github.com/agentgateway/agentgateway/pull/3052) 
-- [fix(llm): classify proxy errors by phase](https://github.com/agentgateway/agentgateway/pull/3015)
-- [feat: configure sensitive request headers](https://github.com/agentgateway/agentgateway/pull/3078)
-
-**[Istio](https://github.com/istio/istio)** ![stars](https://img.shields.io/github/stars/istio/istio?style=flat-square&logo=github&label=)
-- [test: speed up TestGetCNIConfigFilepath](https://github.com/istio/istio/pull/61156)
+<!-- OSS-CONTRIBUTIONS:START -->
+<!-- OSS-CONTRIBUTIONS:END -->
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashubhamojha1+is%3Amerged+-user%3Ashubhamojha1)
 
