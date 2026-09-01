@@ -1,0 +1,31 @@
+name: Validate OSS Contribution Tracker
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/oss-tracker-ci.yml'
+      - '.github/workflows/oss-tracker.yml'
+      - 'contribution_blocklist.json'
+      - 'contributions.json'
+      - 'known_prs.json'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'README.md'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Test tracker scripts
+        run: bash tests/test-oss-tracker.sh
+
+      - name: Verify generated README is current
+        run: |
+          bash scripts/render-readme.sh
+          git diff --exit-code -- README.md

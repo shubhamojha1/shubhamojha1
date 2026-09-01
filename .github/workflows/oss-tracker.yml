@@ -2,7 +2,7 @@ name: Track OSS Contributions
 
 on:
   schedule:
-    - cron: '0 6 * * 1,4'   # Mon & Thu, 6 AM UTC — change the day/hour here
+    - cron: '0 6 * * 0,4'   # Sun & Thu, 6 AM UTC
   workflow_dispatch: {}
 
 permissions:
