@@ -14,13 +14,17 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ## Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS:START -->
+### [agentgateway](https://github.com/agentgateway)
+
 - [agentgateway/agentgateway#3128](https://github.com/agentgateway/agentgateway/pull/3128) — feat(api): expose custom provider override
-- [istio/istio#61213](https://github.com/istio/istio/pull/61213) — fix(agentgateway): validate BackendTLS CA
 - [agentgateway/agentgateway#3078](https://github.com/agentgateway/agentgateway/pull/3078) — feat: configure sensitive request headers
 - [agentgateway/agentgateway#3052](https://github.com/agentgateway/agentgateway/pull/3052) — feat(xds): add custom request headers
 - [agentgateway/agentgateway#3015](https://github.com/agentgateway/agentgateway/pull/3015) — fix(llm): classify proxy errors by phase
+
+### [istio](https://github.com/istio)
+
+- [istio/istio#61213](https://github.com/istio/istio/pull/61213) — fix(agentgateway): validate BackendTLS CA
 - [istio/istio#61156](https://github.com/istio/istio/pull/61156) — test: speed up TestGetCNIConfigFilepath
-- [InterviewReady/system-design-resources#33](https://github.com/InterviewReady/system-design-resources/pull/33) — Fix : Dead link to Netflix Workflow Orchestration
 <!-- OSS-CONTRIBUTIONS:END -->
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashubhamojha1+is%3Amerged+-user%3Ashubhamojha1)
