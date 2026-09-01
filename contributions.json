@@ -1,0 +1,58 @@
+[
+  {
+    "id": "agentgateway/agentgateway#3128",
+    "merged_at": "2026-08-24T16:13:35Z",
+    "number": 3128,
+    "repo": "agentgateway/agentgateway",
+    "title": "feat(api): expose custom provider override",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3128"
+  },
+  {
+    "id": "istio/istio#61213",
+    "merged_at": "2026-08-19T18:16:35Z",
+    "number": 61213,
+    "repo": "istio/istio",
+    "title": "fix(agentgateway): validate BackendTLS CA",
+    "url": "https://github.com/istio/istio/pull/61213"
+  },
+  {
+    "id": "agentgateway/agentgateway#3078",
+    "merged_at": "2026-08-18T21:56:31Z",
+    "number": 3078,
+    "repo": "agentgateway/agentgateway",
+    "title": "feat: configure sensitive request headers",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3078"
+  },
+  {
+    "id": "agentgateway/agentgateway#3052",
+    "merged_at": "2026-08-17T19:46:10Z",
+    "number": 3052,
+    "repo": "agentgateway/agentgateway",
+    "title": "feat(xds): add custom request headers",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3052"
+  },
+  {
+    "id": "agentgateway/agentgateway#3015",
+    "merged_at": "2026-08-13T22:21:26Z",
+    "number": 3015,
+    "repo": "agentgateway/agentgateway",
+    "title": "fix(llm): classify proxy errors by phase",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3015"
+  },
+  {
+    "id": "istio/istio#61156",
+    "merged_at": "2026-08-11T05:39:08Z",
+    "number": 61156,
+    "repo": "istio/istio",
+    "title": "test: speed up TestGetCNIConfigFilepath",
+    "url": "https://github.com/istio/istio/pull/61156"
+  },
+  {
+    "id": "InterviewReady/system-design-resources#33",
+    "merged_at": "2025-06-23T06:04:03Z",
+    "number": 33,
+    "repo": "InterviewReady/system-design-resources",
+    "title": "Fix : Dead link to Netflix Workflow Orchestration",
+    "url": "https://github.com/InterviewReady/system-design-resources/pull/33"
+  }
+]
