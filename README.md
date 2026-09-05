@@ -6,9 +6,9 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 
 ## Currently
 
-- Building **Titan**, a model-agnostic system design interview engine — the harness runs the interview through a deterministic graph/state/policy layer instead of prompting a model to roleplay an interviewer.
-- Building **Forge**, a CLI orchestration harness for coding agents. Python stdlib only, sequential agent coordination, SQLite-backed memory layer.
-- Maintaining **systemsfailed.dev**, a curated archive of real production incidents indexed by failure class — 40+ entries live.
+- Building **[Titan](https://github.com/shubhamojha1/titan)**, a model-agnostic system design interview engine — the harness runs the interview through a deterministic graph/state/policy layer instead of prompting a model to roleplay an interviewer.
+- Building **[Forge](https://github.com/shubhamojha1/forge)**, a CLI orchestration harness for coding agents. Python stdlib only, sequential agent coordination, SQLite-backed memory layer.
+- Maintaining **[systemsfailed.dev](https://github.com/shubhamojha1/onthejob)**, a curated archive of real production incidents indexed by failure class — 40+ entries live.
 - Open to SDE-2 / L4 backend and AI infrastructure roles.
 
 ## Open Source Contributions
@@ -31,11 +31,11 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 
 ## Selected projects
 
-- **Helios** — LLM inference engine serving Qwen2.5-3B-Instruct on an RTX 4070, with continuous batching and PagedAttention-style KV cache management. In maintenance mode.
-- **Chronos** — an OS written from scratch in Rust and NASM. Real-mode bootloader is done.
-- **Bifrost** — a hash-join engine in C++.
-- **SimpleMQ** — a Kafka-style message broker in Go.
-- **Rakshak** — a VAE-based phishing detector, 56% to 94% accuracy.
+- **[Helios](https://github.com/shubhamojha1/helios)** — LLM inference engine serving Qwen2.5-3B-Instruct on an RTX 4070, with continuous batching and PagedAttention-style KV cache management. In maintenance mode.
+- **[Chronos](https://github.com/shubhamojha1/chronos)** — an OS written from scratch in Rust and NASM. Real-mode bootloader is done.
+- **[Bifrost](https://github.com/shubhamojha1/bifrost)** — a hash-join engine in C++.
+- **[SimpleMQ](https://github.com/shubhamojha1/simplemq)** — a Kafka-style message broker in Go.
+- **[Rakshak](https://github.com/shubhamojha1/Rakshak)** — a VAE-based phishing detector, 56% to 94% accuracy.
 
 ## Stack
 
