@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#3177",
+    "merged_at": "2026-09-08T18:36:17Z",
+    "number": 3177,
+    "repo": "agentgateway/agentgateway",
+    "title": "auth: classify backend authentication failures",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3177"
+  },
+  {
     "id": "agentgateway/agentgateway#3128",
     "merged_at": "2026-08-24T16:13:35Z",
     "number": 3128,

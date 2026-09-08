@@ -5,5 +5,6 @@
   "agentgateway/agentgateway#3015",
   "istio/istio#61213",
   "istio/istio#61156",
-  "InterviewReady/system-design-resources#33"
+  "InterviewReady/system-design-resources#33",
+  "agentgateway/agentgateway#3177"
 ]
