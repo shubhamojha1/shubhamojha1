@@ -16,6 +16,7 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 <!-- OSS-CONTRIBUTIONS:START -->
 ### [agentgateway](https://github.com/agentgateway)
 
+- [agentgateway/agentgateway#3406](https://github.com/agentgateway/agentgateway/pull/3406) — feat: configure gateway bind address
 - [agentgateway/agentgateway#3177](https://github.com/agentgateway/agentgateway/pull/3177) — auth: classify backend authentication failures
 - [agentgateway/agentgateway#3128](https://github.com/agentgateway/agentgateway/pull/3128) — feat(api): expose custom provider override
 - [agentgateway/agentgateway#3078](https://github.com/agentgateway/agentgateway/pull/3078) — feat: configure sensitive request headers

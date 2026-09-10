@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#3406",
+    "merged_at": "2026-09-09T23:09:43Z",
+    "number": 3406,
+    "repo": "agentgateway/agentgateway",
+    "title": "feat: configure gateway bind address",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3406"
+  },
+  {
     "id": "agentgateway/agentgateway#3177",
     "merged_at": "2026-09-08T18:36:17Z",
     "number": 3177,
