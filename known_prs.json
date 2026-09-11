@@ -7,5 +7,6 @@
   "istio/istio#61156",
   "InterviewReady/system-design-resources#33",
   "agentgateway/agentgateway#3177",
-  "agentgateway/agentgateway#3406"
+  "agentgateway/agentgateway#3406",
+  "kagent-dev/kagent#2797"
 ]

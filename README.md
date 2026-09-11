@@ -14,6 +14,10 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ## Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS:START -->
+### [kagent-dev](https://github.com/kagent-dev)
+
+- [kagent-dev/kagent#2797](https://github.com/kagent-dev/kagent/pull/2797) — fix(helm): use kagent-tools namespace in URL
+
 ### [agentgateway](https://github.com/agentgateway)
 
 - [agentgateway/agentgateway#3406](https://github.com/agentgateway/agentgateway/pull/3406) — feat: configure gateway bind address

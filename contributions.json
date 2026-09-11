@@ -1,5 +1,13 @@
 [
   {
+    "id": "kagent-dev/kagent#2797",
+    "merged_at": "2026-09-10T21:24:55Z",
+    "number": 2797,
+    "repo": "kagent-dev/kagent",
+    "title": "fix(helm): use kagent-tools namespace in URL",
+    "url": "https://github.com/kagent-dev/kagent/pull/2797"
+  },
+  {
     "id": "agentgateway/agentgateway#3406",
     "merged_at": "2026-09-09T23:09:43Z",
     "number": 3406,
