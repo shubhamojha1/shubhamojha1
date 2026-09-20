@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#3458",
+    "merged_at": "2026-09-18T21:41:39Z",
+    "number": 3458,
+    "repo": "agentgateway/agentgateway",
+    "title": "perf(controller): cache TLS validation results",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3458"
+  },
+  {
     "id": "kagent-dev/kagent#2797",
     "merged_at": "2026-09-10T21:24:55Z",
     "number": 2797,

@@ -14,18 +14,19 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ## Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS:START -->
-### [kagent-dev](https://github.com/kagent-dev)
-
-- [kagent-dev/kagent#2797](https://github.com/kagent-dev/kagent/pull/2797) — fix(helm): use kagent-tools namespace in URL
-
 ### [agentgateway](https://github.com/agentgateway)
 
+- [agentgateway/agentgateway#3458](https://github.com/agentgateway/agentgateway/pull/3458) — perf(controller): cache TLS validation results
 - [agentgateway/agentgateway#3406](https://github.com/agentgateway/agentgateway/pull/3406) — feat: configure gateway bind address
 - [agentgateway/agentgateway#3177](https://github.com/agentgateway/agentgateway/pull/3177) — auth: classify backend authentication failures
 - [agentgateway/agentgateway#3128](https://github.com/agentgateway/agentgateway/pull/3128) — feat(api): expose custom provider override
 - [agentgateway/agentgateway#3078](https://github.com/agentgateway/agentgateway/pull/3078) — feat: configure sensitive request headers
 - [agentgateway/agentgateway#3052](https://github.com/agentgateway/agentgateway/pull/3052) — feat(xds): add custom request headers
 - [agentgateway/agentgateway#3015](https://github.com/agentgateway/agentgateway/pull/3015) — fix(llm): classify proxy errors by phase
+
+### [kagent-dev](https://github.com/kagent-dev)
+
+- [kagent-dev/kagent#2797](https://github.com/kagent-dev/kagent/pull/2797) — fix(helm): use kagent-tools namespace in URL
 
 ### [istio](https://github.com/istio)
 
