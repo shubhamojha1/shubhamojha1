@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#3763",
+    "merged_at": "2026-10-02T20:51:13Z",
+    "number": 3763,
+    "repo": "agentgateway/agentgateway",
+    "title": "Allow Helm installations without creating RBAC resources",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3763"
+  },
+  {
     "id": "agentgateway/agentgateway#3458",
     "merged_at": "2026-09-18T21:41:39Z",
     "number": 3458,

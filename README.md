@@ -16,6 +16,7 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 <!-- OSS-CONTRIBUTIONS:START -->
 ### [agentgateway](https://github.com/agentgateway)
 
+- [agentgateway/agentgateway#3763](https://github.com/agentgateway/agentgateway/pull/3763) — Allow Helm installations without creating RBAC resources
 - [agentgateway/agentgateway#3458](https://github.com/agentgateway/agentgateway/pull/3458) — perf(controller): cache TLS validation results
 - [agentgateway/agentgateway#3406](https://github.com/agentgateway/agentgateway/pull/3406) — feat: configure gateway bind address
 - [agentgateway/agentgateway#3177](https://github.com/agentgateway/agentgateway/pull/3177) — auth: classify backend authentication failures
@@ -31,7 +32,6 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ### [istio](https://github.com/istio)
 
 - [istio/istio#61213](https://github.com/istio/istio/pull/61213) — fix(agentgateway): validate BackendTLS CA
-- [istio/istio#61156](https://github.com/istio/istio/pull/61156) — test: speed up TestGetCNIConfigFilepath
 <!-- OSS-CONTRIBUTIONS:END -->
 
 [View all merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashubhamojha1+is%3Amerged+-user%3Ashubhamojha1)
