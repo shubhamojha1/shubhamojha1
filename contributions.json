@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#3786",
+    "merged_at": "2026-10-05T14:55:50Z",
+    "number": 3786,
+    "repo": "agentgateway/agentgateway",
+    "title": "Unexpected HTTP 406 when passing separate `Accept` header lines instead of comma-separated values to the MCP endpoint",
+    "url": "https://github.com/agentgateway/agentgateway/pull/3786"
+  },
+  {
     "id": "agentgateway/agentgateway#3763",
     "merged_at": "2026-10-02T20:51:13Z",
     "number": 3763,
