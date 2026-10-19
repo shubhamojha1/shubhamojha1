@@ -14,6 +14,10 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 ## Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS:START -->
+### [ClickHouse](https://github.com/ClickHouse)
+
+- [ClickHouse/ClickHouse#121645](https://github.com/ClickHouse/ClickHouse/pull/121645) — Fix `modulo` by constant minimum signed divisor
+
 ### [agentgateway](https://github.com/agentgateway)
 
 - [agentgateway/agentgateway#3786](https://github.com/agentgateway/agentgateway/pull/3786) — Unexpected HTTP 406 when passing separate `Accept` header lines instead of comma-separated values to the MCP endpoint
@@ -23,7 +27,6 @@ Systems engineer working across distributed systems and AI infrastructure. Techn
 - [agentgateway/agentgateway#3177](https://github.com/agentgateway/agentgateway/pull/3177) — auth: classify backend authentication failures
 - [agentgateway/agentgateway#3128](https://github.com/agentgateway/agentgateway/pull/3128) — feat(api): expose custom provider override
 - [agentgateway/agentgateway#3078](https://github.com/agentgateway/agentgateway/pull/3078) — feat: configure sensitive request headers
-- [agentgateway/agentgateway#3052](https://github.com/agentgateway/agentgateway/pull/3052) — feat(xds): add custom request headers
 
 ### [kagent-dev](https://github.com/kagent-dev)
 

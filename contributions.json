@@ -1,5 +1,13 @@
 [
   {
+    "id": "ClickHouse/ClickHouse#121645",
+    "merged_at": "2026-10-18T23:06:23Z",
+    "number": 121645,
+    "repo": "ClickHouse/ClickHouse",
+    "title": "Fix `modulo` by constant minimum signed divisor",
+    "url": "https://github.com/ClickHouse/ClickHouse/pull/121645"
+  },
+  {
     "id": "agentgateway/agentgateway#3786",
     "merged_at": "2026-10-05T14:55:50Z",
     "number": 3786,
