@@ -12,5 +12,6 @@
   "agentgateway/agentgateway#3458",
   "agentgateway/agentgateway#3763",
   "agentgateway/agentgateway#3786",
-  "ClickHouse/ClickHouse#121645"
+  "ClickHouse/ClickHouse#121645",
+  "agentgateway/agentgateway#4079"
 ]

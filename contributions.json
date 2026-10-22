@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentgateway/agentgateway#4079",
+    "merged_at": "2026-10-21T22:16:26Z",
+    "number": 4079,
+    "repo": "agentgateway/agentgateway",
+    "title": "fix(mcp): distinguish authorization denials in logs",
+    "url": "https://github.com/agentgateway/agentgateway/pull/4079"
+  },
+  {
     "id": "ClickHouse/ClickHouse#121645",
     "merged_at": "2026-10-18T23:06:23Z",
     "number": 121645,
